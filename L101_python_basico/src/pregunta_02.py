@@ -1,3 +1,8 @@
+from collections import Counter
+
+from ._records import read_records
+
+
 def pregunta_02():
     """
     Cuente cuántos registros hay para cada letra de la primera columna
@@ -9,4 +14,5 @@ def pregunta_02():
         [("A", 8), ("B", 7), ("C", 5), ...]
     """
 
-    raise NotImplementedError
+    counts = Counter(record.letter for record in read_records())
+    return sorted(counts.items())

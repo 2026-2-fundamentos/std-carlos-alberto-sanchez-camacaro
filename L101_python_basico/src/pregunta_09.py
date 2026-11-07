@@ -1,3 +1,8 @@
+from collections import Counter
+
+from ._records import read_records
+
+
 def pregunta_09():
     """
     Cuente cuántas veces aparece cada clave en la quinta columna (`metrics`)
@@ -9,4 +14,5 @@ def pregunta_09():
         {"aaa": 13, "bbb": 16, "ccc": 23, ...}
     """
 
-    raise NotImplementedError
+    counts = Counter(key for record in read_records() for key, _ in record.metrics)
+    return dict(sorted(counts.items()))

@@ -1,3 +1,8 @@
+from collections import defaultdict
+
+from ._records import read_records
+
+
 def pregunta_06():
     """
     La quinta columna (`metrics`) contiene pares `clave:valor` separados por
@@ -13,4 +18,8 @@ def pregunta_06():
         [("aaa", 1, 9), ("bbb", 1, 9), ...]
     """
 
-    raise NotImplementedError
+    values = defaultdict(list)
+    for record in read_records():
+        for key, value in record.metrics:
+            values[key].append(value)
+    return [(key, min(group), max(group)) for key, group in sorted(values.items())]

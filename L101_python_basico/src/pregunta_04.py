@@ -1,3 +1,8 @@
+from collections import Counter
+
+from ._records import read_records
+
+
 def pregunta_04():
     """
     Cuente cuántos registros hay en cada mes, usando la fecha de la tercera
@@ -9,4 +14,6 @@ def pregunta_04():
         [("01", 3), ("02", 4), ("03", 2), ...]
     """
 
-    raise NotImplementedError
+    # El archivo contiene dias invalidos; solo se necesita el mes original.
+    counts = Counter(record.date.split("-")[1] for record in read_records())
+    return sorted(counts.items())
