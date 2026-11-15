@@ -1,3 +1,6 @@
+from ._tables import read_table
+
+
 def pregunta_06():
     """
     Usando `data/tbl1.tsv`, obtenga los valores distintos de la columna `c4`,
@@ -9,4 +12,4 @@ def pregunta_06():
         ["A", "B", "C", "D", "E", "F", "G"]
     """
 
-    raise NotImplementedError
+    return sorted(read_table("tbl1")["c4"].str.upper().unique())

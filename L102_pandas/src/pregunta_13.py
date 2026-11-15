@@ -1,3 +1,6 @@
+from ._tables import read_table
+
+
 def pregunta_13():
     """
     Combine las tablas `data/tbl0.tsv` y `data/tbl2.tsv` usando la columna
@@ -15,4 +18,7 @@ def pregunta_13():
         ...
     """
 
-    raise NotImplementedError
+    table = read_table("tbl0").merge(
+        read_table("tbl2"), on="c0", validate="one_to_many"
+    )
+    return table.groupby("c1")["c5b"].sum()

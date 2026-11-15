@@ -1,3 +1,6 @@
+from ._tables import read_table
+
+
 def pregunta_03():
     """
     Usando `data/tbl0.tsv`, cuente cuántos registros hay para cada categoría
@@ -13,4 +16,4 @@ def pregunta_03():
         ...
     """
 
-    raise NotImplementedError
+    return read_table("tbl0").groupby("c1").size()

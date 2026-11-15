@@ -1,3 +1,6 @@
+from ._tables import read_table
+
+
 def pregunta_07():
     """
     Usando `data/tbl0.tsv`, sume los valores de la columna `c2` para cada
@@ -13,4 +16,4 @@ def pregunta_07():
         ...
     """
 
-    raise NotImplementedError
+    return read_table("tbl0").groupby("c1")["c2"].sum()
