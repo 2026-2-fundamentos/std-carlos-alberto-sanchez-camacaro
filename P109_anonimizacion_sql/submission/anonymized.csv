@@ -1,0 +1,601 @@
+loyalty_card_number,annual_spend,customer_id,age_group,region,occupation_group
+********0001,2580000,CUST-391ADF45C57D,20-29,Andina,Comercio y oficios
+********0002,5400000,CUST-65B9EAA2CF7E,30-39,Pacífica,Tecnología y diseño
+********0003,5320000,CUST-6BAB3CCDCE4F,30-39,Andina,Salud y educación
+********0004,4290000,CUST-44969004892F,60-69,Andina,Servicios profesionales
+********0005,3670000,CUST-2CDE6AFAD994,20-29,Andina,Comercio y oficios
+********0006,3980000,CUST-BD4A3C641990,30-39,Andina,Comercio y oficios
+********0007,3900000,CUST-E7ABFDFCC206,40-49,Andina,Tecnología y diseño
+********0008,3010000,CUST-E641E5DCAEE3,20-29,Andina,Salud y educación
+********0009,3820000,CUST-E15E4D614C5D,50-59,Andina,Servicios profesionales
+********0010,2780000,CUST-CADDCFDEBE73,20-29,Andina,Tecnología y diseño
+********0011,3860000,CUST-F9B761FE010F,60-69,Andina,Salud y educación
+********0012,5860000,CUST-DABCF952F866,50-59,Andina,Salud y educación
+********0013,2560000,CUST-014E2DC451D0,20-29,Andina,Tecnología y diseño
+********0014,7310000,CUST-7D99C3B6F1AE,50-59,Andina,Servicios profesionales
+********0015,4090000,CUST-E29EBFA6C89A,40-49,Andina,Comercio y oficios
+********0016,8540000,CUST-A1BBAC51739E,30-39,Andina,Tecnología y diseño
+********0017,5660000,CUST-4A1C1762B189,40-49,Andina,Tecnología y diseño
+********0018,3420000,CUST-89107EACA843,30-39,Caribe,Servicios profesionales
+********0019,5000000,CUST-B4F474026FF1,40-49,Andina,Salud y educación
+********0020,5180000,CUST-211746E5CC27,50-59,Andina,Salud y educación
+********0021,3470000,CUST-E67AB4CF2FCB,20-29,Andina,Servicios profesionales
+********0022,4860000,CUST-31DBAC4B109F,50-59,Caribe,Servicios profesionales
+********0023,2760000,CUST-77C37DC74783,30-39,Andina,Tecnología y diseño
+********0024,1840000,CUST-60A994CAB75F,40-49,Andina,Tecnología y diseño
+********0025,4410000,CUST-0AD7A57E10FA,30-39,Andina,Comercio y oficios
+********0026,2230000,CUST-F36983308C46,40-49,Andina,Salud y educación
+********0027,4330000,CUST-F9A0AD56F717,60-69,Andina,Tecnología y diseño
+********0028,4490000,CUST-8DE116B7AEEC,20-29,Andina,Servicios profesionales
+********0029,4390000,CUST-8949D5877696,50-59,Andina,Tecnología y diseño
+********0030,5290000,CUST-6627ED86F2FB,40-49,Andina,Salud y educación
+********0031,7920000,CUST-5613D9ED21B8,60-69,Andina,Salud y educación
+********0032,5680000,CUST-309E42FAE243,50-59,Pacífica,Servicios profesionales
+********0033,6030000,CUST-2190A93A5F24,60-69,Pacífica,Comercio y oficios
+********0034,2550000,CUST-9FD2B3F0734D,40-49,Andina,Tecnología y diseño
+********0035,4360000,CUST-97A197869781,40-49,Andina,Servicios profesionales
+********0036,8660000,CUST-900C7A428706,60-69,Andina,Tecnología y diseño
+********0037,5940000,CUST-BF1D83E788CA,50-59,Andina,Tecnología y diseño
+********0038,3550000,CUST-99F7D0B3AB8A,30-39,Andina,Servicios profesionales
+********0039,3870000,CUST-FF3C61A57BA1,40-49,Andina,Salud y educación
+********0040,4550000,CUST-9C3C801679B7,40-49,Caribe,Servicios profesionales
+********0041,3860000,CUST-DEE2AC9A9A2C,30-39,Andina,Servicios profesionales
+********0042,2570000,CUST-4D2ABB346597,30-39,Andina,Comercio y oficios
+********0043,2970000,CUST-5F2CFCBB0521,50-59,Caribe,Comercio y oficios
+********0044,2110000,CUST-A055727FC589,30-39,Andina,Servicios profesionales
+********0045,2270000,CUST-7622F30F7A85,50-59,Andina,Tecnología y diseño
+********0046,3910000,CUST-8903E54C1AD2,40-49,Andina,Servicios profesionales
+********0047,4210000,CUST-67475E473903,30-39,Andina,Tecnología y diseño
+********0048,2990000,CUST-5458B0BF7DC2,30-39,Andina,Salud y educación
+********0049,2650000,CUST-AC6B162E8D06,40-49,Andina,Salud y educación
+********0050,4140000,CUST-5F8667865D7A,60-69,Caribe,Comercio y oficios
+********0051,3020000,CUST-D014A0ADE660,60-69,Caribe,Salud y educación
+********0052,2980000,CUST-514EED227D29,50-59,Caribe,Salud y educación
+********0053,3540000,CUST-70A4D9B2E284,30-39,Andina,Servicios profesionales
+********0054,4080000,CUST-6DC7636704C3,40-49,Andina,Servicios profesionales
+********0055,3780000,CUST-108594CF5178,40-49,Andina,Salud y educación
+********0056,2600000,CUST-66D9BA7DBDAA,20-29,Andina,Salud y educación
+********0057,2610000,CUST-1C414C69CFD8,30-39,Andina,Salud y educación
+********0058,7950000,CUST-54F0524BF147,60-69,Andina,Salud y educación
+********0059,3020000,CUST-AB2D9A2D78B6,40-49,Andina,Comercio y oficios
+********0060,4740000,CUST-0E2446CD1F19,20-29,Andina,Tecnología y diseño
+********0061,3230000,CUST-D2E0C06F5705,40-49,Andina,Salud y educación
+********0062,7290000,CUST-C7EC3D1AFE28,60-69,Andina,Servicios profesionales
+********0063,2340000,CUST-44EE4211CED3,50-59,Andina,Salud y educación
+********0064,2300000,CUST-47DE4DC13A36,20-29,Andina,Servicios profesionales
+********0065,2590000,CUST-1E7263228E3C,30-39,Andina,Servicios profesionales
+********0066,3020000,CUST-B0D7AF3A09A5,40-49,Andina,Comercio y oficios
+********0067,5590000,CUST-64EA6337309C,40-49,Andina,Servicios profesionales
+********0068,4520000,CUST-FE883139BE94,30-39,Caribe,Tecnología y diseño
+********0069,2500000,CUST-34187C1EBBB5,30-39,Andina,Servicios profesionales
+********0070,3870000,CUST-DF1770E55FE8,40-49,Andina,Comercio y oficios
+********0071,3990000,CUST-C22C32D2C268,30-39,Andina,Comercio y oficios
+********0072,1960000,CUST-50A3CE9B4F44,20-29,Caribe,Salud y educación
+********0073,3210000,CUST-3A91FF4E555F,40-49,Andina,Comercio y oficios
+********0074,2890000,CUST-F60C5F313A43,20-29,Andina,Servicios profesionales
+********0075,3550000,CUST-0B3118B11AEC,40-49,Andina,Servicios profesionales
+********0076,5470000,CUST-A68C523E228C,60-69,Andina,Servicios profesionales
+********0077,3150000,CUST-AA15EB113351,40-49,Andina,Servicios profesionales
+********0078,2450000,CUST-B663AA13AD95,20-29,Andina,Servicios profesionales
+********0079,4180000,CUST-A3017BB3A79C,40-49,Pacífica,Servicios profesionales
+********0080,2200000,CUST-B204406E58D8,20-29,Andina,Comercio y oficios
+********0081,2310000,CUST-66075FE93773,60-69,Pacífica,Servicios profesionales
+********0082,3890000,CUST-6DF963890445,50-59,Andina,Servicios profesionales
+********0083,4980000,CUST-29C2C55AE154,60-69,Pacífica,Salud y educación
+********0084,2880000,CUST-D3330802208D,40-49,Pacífica,Servicios profesionales
+********0085,5740000,CUST-5F9BE7C4AFCD,30-39,Andina,Servicios profesionales
+********0086,3810000,CUST-78B757902CCD,30-39,Andina,Tecnología y diseño
+********0087,4610000,CUST-68D682DCDA04,20-29,Andina,Tecnología y diseño
+********0088,5370000,CUST-BB97DC2AD138,60-69,Andina,Servicios profesionales
+********0089,2910000,CUST-8E1548C710E6,50-59,Andina,Comercio y oficios
+********0090,4770000,CUST-E15EB9A14961,40-49,Pacífica,Tecnología y diseño
+********0091,3070000,CUST-2A5EE3DB6490,30-39,Andina,Salud y educación
+********0092,3120000,CUST-773F3BE70B50,50-59,Pacífica,Servicios profesionales
+********0093,4400000,CUST-772155F7E944,60-69,Caribe,Comercio y oficios
+********0094,3650000,CUST-1784F0FB736D,60-69,Andina,Salud y educación
+********0095,2230000,CUST-87B03AFAD44F,40-49,Andina,Salud y educación
+********0096,4230000,CUST-B4309DC35280,60-69,Caribe,Servicios profesionales
+********0097,5310000,CUST-E061E6623977,40-49,Andina,Servicios profesionales
+********0098,3550000,CUST-E8CF90EE7FFE,60-69,Andina,Comercio y oficios
+********0099,2220000,CUST-C6C4F6A5B55F,20-29,Andina,Salud y educación
+********0100,3420000,CUST-D07247966C46,40-49,Andina,Comercio y oficios
+********0101,3340000,CUST-923B3311CD9E,40-49,Andina,Salud y educación
+********0102,1960000,CUST-B253023C2FF9,20-29,Caribe,Servicios profesionales
+********0103,5520000,CUST-250A633ED251,40-49,Andina,Tecnología y diseño
+********0104,3360000,CUST-11609DDEF523,20-29,Andina,Comercio y oficios
+********0105,5430000,CUST-E1CBC7AF259A,50-59,Andina,Tecnología y diseño
+********0106,4360000,CUST-70593E29B6D6,60-69,Caribe,Tecnología y diseño
+********0107,3650000,CUST-6BD76354F5F3,60-69,Andina,Tecnología y diseño
+********0108,2620000,CUST-DE07BC30E9AB,40-49,Caribe,Servicios profesionales
+********0109,2590000,CUST-2EC4CD2D6352,40-49,Andina,Servicios profesionales
+********0110,2860000,CUST-60B0366C546A,50-59,Andina,Salud y educación
+********0111,4270000,CUST-0DEF3093DFC4,60-69,Andina,Salud y educación
+********0112,5190000,CUST-7F7856E1F382,30-39,Andina,Tecnología y diseño
+********0113,3070000,CUST-DE2752EBAA29,30-39,Andina,Salud y educación
+********0114,2750000,CUST-5151F7638B73,40-49,Andina,Tecnología y diseño
+********0115,2800000,CUST-5095BADD30AA,50-59,Caribe,Comercio y oficios
+********0116,5360000,CUST-119789B0DF54,40-49,Caribe,Servicios profesionales
+********0117,3540000,CUST-848EB90C5F5B,40-49,Andina,Comercio y oficios
+********0118,3120000,CUST-DC47D0B3669A,30-39,Andina,Tecnología y diseño
+********0119,2320000,CUST-E0BAF1D38E9B,20-29,Andina,Salud y educación
+********0120,2030000,CUST-6194DEEF5CBF,50-59,Andina,Tecnología y diseño
+********0121,1270000,CUST-37F2CB4B4BF8,30-39,Andina,Salud y educación
+********0122,4280000,CUST-D1A766857BBE,30-39,Andina,Salud y educación
+********0123,6750000,CUST-0E59187666A3,50-59,Andina,Salud y educación
+********0124,4930000,CUST-CEFDBB6C49DE,40-49,Andina,Servicios profesionales
+********0125,2060000,CUST-1B1B2AD511EC,40-49,Andina,Salud y educación
+********0126,2270000,CUST-2269C0C0A715,30-39,Andina,Tecnología y diseño
+********0127,3460000,CUST-8DF7A02EF135,40-49,Andina,Servicios profesionales
+********0128,3120000,CUST-9B756BF12E10,60-69,Andina,Servicios profesionales
+********0129,3280000,CUST-625DF6BA815D,20-29,Andina,Tecnología y diseño
+********0130,4350000,CUST-F651FEB7A1A2,20-29,Caribe,Comercio y oficios
+********0131,2520000,CUST-E8ACFEBD226E,20-29,Andina,Salud y educación
+********0132,2780000,CUST-6D19E8E1E4F2,60-69,Andina,Comercio y oficios
+********0133,2070000,CUST-4804BFF6D785,50-59,Caribe,Salud y educación
+********0134,1810000,CUST-00A563755CEA,40-49,Andina,Salud y educación
+********0135,2150000,CUST-EF443333233B,60-69,Andina,Servicios profesionales
+********0136,5080000,CUST-FC66502797E4,40-49,Pacífica,Salud y educación
+********0137,5550000,CUST-33F3E54D33EE,50-59,Pacífica,Servicios profesionales
+********0138,2930000,CUST-D5310438F519,30-39,Pacífica,Servicios profesionales
+********0139,5970000,CUST-E4726D16F1BC,60-69,Andina,Salud y educación
+********0140,3170000,CUST-F25B8AEE6B43,20-29,Andina,Servicios profesionales
+********0141,3960000,CUST-6D61F61E6508,40-49,Andina,Tecnología y diseño
+********0142,3000000,CUST-87E538D85986,60-69,Andina,Servicios profesionales
+********0143,2610000,CUST-9FAB5160FC1C,20-29,Andina,Comercio y oficios
+********0144,3520000,CUST-D66EA2EC8987,20-29,Andina,Comercio y oficios
+********0145,1600000,CUST-D32FD004755C,30-39,Caribe,Comercio y oficios
+********0146,3520000,CUST-601036CCF941,60-69,Caribe,Salud y educación
+********0147,2560000,CUST-7FFE6F2BB4C4,40-49,Andina,Salud y educación
+********0148,3660000,CUST-8D84D7EFED24,50-59,Andina,Comercio y oficios
+********0149,2040000,CUST-E475DFDDDAB5,20-29,Andina,Salud y educación
+********0150,5190000,CUST-02D267B7D324,40-49,Caribe,Comercio y oficios
+********0151,2620000,CUST-E373F9CD2254,50-59,Andina,Servicios profesionales
+********0152,1600000,CUST-E95437A268DB,20-29,Andina,Comercio y oficios
+********0153,1810000,CUST-AEF5FF2FC39D,20-29,Andina,Salud y educación
+********0154,5830000,CUST-639C61EDD213,50-59,Andina,Servicios profesionales
+********0155,3290000,CUST-14709236B415,20-29,Andina,Servicios profesionales
+********0156,4590000,CUST-B474BA94199D,20-29,Caribe,Tecnología y diseño
+********0157,2300000,CUST-9C4A98A603C4,30-39,Andina,Comercio y oficios
+********0158,3410000,CUST-61F075B3398E,50-59,Caribe,Salud y educación
+********0159,2140000,CUST-5E3902458FE1,20-29,Andina,Servicios profesionales
+********0160,3640000,CUST-BDD6F245DD05,30-39,Caribe,Servicios profesionales
+********0161,3190000,CUST-172E9FA0E388,50-59,Caribe,Comercio y oficios
+********0162,4930000,CUST-25FEBD7F25EA,20-29,Caribe,Salud y educación
+********0163,4870000,CUST-E15540F5365D,50-59,Caribe,Salud y educación
+********0164,1490000,CUST-02A2A8C7919D,40-49,Andina,Comercio y oficios
+********0165,4280000,CUST-7A855819F6D7,60-69,Andina,Comercio y oficios
+********0166,4220000,CUST-7323B0B30277,30-39,Andina,Salud y educación
+********0167,3210000,CUST-874BF3BBD42D,50-59,Andina,Tecnología y diseño
+********0168,2370000,CUST-A5770E224267,20-29,Caribe,Servicios profesionales
+********0169,2190000,CUST-FCE4E1ABAD2B,20-29,Andina,Servicios profesionales
+********0170,3560000,CUST-8AF4C45D5523,20-29,Andina,Comercio y oficios
+********0171,3070000,CUST-DE7BBB60C5EC,20-29,Andina,Salud y educación
+********0172,9050000,CUST-462E5AA3C762,60-69,Andina,Servicios profesionales
+********0173,5800000,CUST-8C6EE0D55D4F,60-69,Andina,Salud y educación
+********0174,3330000,CUST-15DD9DD9708A,20-29,Pacífica,Servicios profesionales
+********0175,2050000,CUST-BA684ED4993C,40-49,Andina,Tecnología y diseño
+********0176,4060000,CUST-4ECCD76A78E7,20-29,Andina,Servicios profesionales
+********0177,2330000,CUST-26BA1E535ECC,40-49,Caribe,Servicios profesionales
+********0178,2900000,CUST-8CCBC9A0E6E3,40-49,Caribe,Tecnología y diseño
+********0179,2810000,CUST-77F41087210D,60-69,Andina,Salud y educación
+********0180,4130000,CUST-5EB4F3CC064C,50-59,Andina,Servicios profesionales
+********0181,2320000,CUST-455CFB442EE5,60-69,Andina,Tecnología y diseño
+********0182,3800000,CUST-22AB89387BBD,40-49,Pacífica,Salud y educación
+********0183,4210000,CUST-8899729E317B,50-59,Andina,Comercio y oficios
+********0184,2690000,CUST-7EDF922FF8C9,20-29,Andina,Servicios profesionales
+********0185,5360000,CUST-B712614224EE,30-39,Andina,Tecnología y diseño
+********0186,3820000,CUST-F26E5BC057E8,60-69,Pacífica,Tecnología y diseño
+********0187,4580000,CUST-D58E4387A77A,60-69,Andina,Salud y educación
+********0188,4820000,CUST-9377CF3B1719,40-49,Pacífica,Servicios profesionales
+********0189,3390000,CUST-7809136B74C1,50-59,Andina,Salud y educación
+********0190,2350000,CUST-818B206EFE3E,30-39,Andina,Comercio y oficios
+********0191,4530000,CUST-9B53141B4506,60-69,Andina,Salud y educación
+********0192,3430000,CUST-08DF1A773EAF,50-59,Andina,Comercio y oficios
+********0193,3140000,CUST-685C9EA39306,50-59,Andina,Salud y educación
+********0194,2720000,CUST-DD45D12E2FA7,30-39,Pacífica,Salud y educación
+********0195,2820000,CUST-EE36D8FE643C,20-29,Caribe,Salud y educación
+********0196,3330000,CUST-2B8CD72EF5BD,20-29,Andina,Servicios profesionales
+********0197,4230000,CUST-30B08FE8C4B9,40-49,Andina,Salud y educación
+********0198,5270000,CUST-FBD94268ABA0,40-49,Andina,Salud y educación
+********0199,3790000,CUST-7050AC671231,40-49,Andina,Servicios profesionales
+********0200,2310000,CUST-D6F7A0D9BF14,20-29,Caribe,Servicios profesionales
+********0201,3320000,CUST-326A1E66D516,60-69,Andina,Servicios profesionales
+********0202,1370000,CUST-F0F7D3CC4F49,30-39,Andina,Salud y educación
+********0203,4110000,CUST-8C302E11DB75,30-39,Pacífica,Servicios profesionales
+********0204,2920000,CUST-64AB1F8A4F97,30-39,Andina,Servicios profesionales
+********0205,4410000,CUST-E43675837918,40-49,Andina,Servicios profesionales
+********0206,10210000,CUST-1FD1BEBF8272,60-69,Andina,Servicios profesionales
+********0207,1630000,CUST-FFDC06165ACE,20-29,Andina,Salud y educación
+********0208,2240000,CUST-9F5E8FF6B3ED,60-69,Andina,Comercio y oficios
+********0209,3240000,CUST-308E08A0FCC8,40-49,Andina,Salud y educación
+********0210,3110000,CUST-862984FA56C6,50-59,Andina,Servicios profesionales
+********0211,3110000,CUST-64EB81B888FD,30-39,Caribe,Salud y educación
+********0212,1570000,CUST-8D5C9B801C90,20-29,Andina,Salud y educación
+********0213,1820000,CUST-1354B13B96A3,60-69,Pacífica,Servicios profesionales
+********0214,3260000,CUST-6658379D45CB,50-59,Andina,Comercio y oficios
+********0215,2710000,CUST-AAA69AA7F104,20-29,Andina,Salud y educación
+********0216,3050000,CUST-0019247EFD91,30-39,Andina,Salud y educación
+********0217,2320000,CUST-9F0D0654D5F6,50-59,Caribe,Comercio y oficios
+********0218,5880000,CUST-C50919A900D6,60-69,Andina,Servicios profesionales
+********0219,2240000,CUST-700BC93079E8,50-59,Pacífica,Salud y educación
+********0220,2400000,CUST-D12799F6B9A7,30-39,Caribe,Comercio y oficios
+********0221,4900000,CUST-7D1FF6685B8D,60-69,Andina,Comercio y oficios
+********0222,2010000,CUST-FFBDEE82739F,30-39,Andina,Salud y educación
+********0223,4530000,CUST-C39D2DFBF1EE,30-39,Andina,Salud y educación
+********0224,2090000,CUST-9B044E73B980,30-39,Caribe,Tecnología y diseño
+********0225,2600000,CUST-0AFBF966503C,60-69,Pacífica,Salud y educación
+********0226,2690000,CUST-4E4D188139FE,20-29,Caribe,Servicios profesionales
+********0227,4190000,CUST-4FD5761C8F0B,20-29,Andina,Servicios profesionales
+********0228,3050000,CUST-C8974DE3D185,40-49,Caribe,Servicios profesionales
+********0229,3220000,CUST-925394426EAC,50-59,Andina,Salud y educación
+********0230,4390000,CUST-45F03ADFBD69,60-69,Andina,Servicios profesionales
+********0231,3760000,CUST-C1FE8E71F5E5,50-59,Andina,Servicios profesionales
+********0232,6460000,CUST-4F7D76BB5D70,30-39,Andina,Servicios profesionales
+********0233,5010000,CUST-4E6071510C77,50-59,Andina,Comercio y oficios
+********0234,5560000,CUST-AD877EA54CFE,50-59,Andina,Servicios profesionales
+********0235,4680000,CUST-A8226F37544B,40-49,Andina,Salud y educación
+********0236,4150000,CUST-D20BA6135E4A,40-49,Andina,Servicios profesionales
+********0237,2690000,CUST-AF3532737E11,30-39,Andina,Comercio y oficios
+********0238,2700000,CUST-52A7EA100C11,40-49,Andina,Comercio y oficios
+********0239,3800000,CUST-C9009D5452BA,60-69,Andina,Servicios profesionales
+********0240,4890000,CUST-D3D9BB88B711,30-39,Andina,Comercio y oficios
+********0241,2870000,CUST-07E90609FB0B,40-49,Andina,Tecnología y diseño
+********0242,6260000,CUST-BE9C675D2174,60-69,Andina,Salud y educación
+********0243,4710000,CUST-5FF2FF3DB878,60-69,Andina,Salud y educación
+********0244,4060000,CUST-B141E75B8F30,60-69,Andina,Salud y educación
+********0245,2450000,CUST-A71D0F8FFC3E,30-39,Andina,Servicios profesionales
+********0246,5010000,CUST-F83A8D59BF06,60-69,Andina,Salud y educación
+********0247,1040000,CUST-8FCAFD4ABEA4,20-29,Andina,Servicios profesionales
+********0248,4620000,CUST-ADF38DFF936C,60-69,Andina,Salud y educación
+********0249,4470000,CUST-C1219CFC4B2F,30-39,Andina,Servicios profesionales
+********0250,4470000,CUST-6B3E3F3336A4,50-59,Andina,Servicios profesionales
+********0251,2760000,CUST-7E546D5D7DBD,20-29,Caribe,Comercio y oficios
+********0252,3680000,CUST-3B1409F52F7E,50-59,Andina,Servicios profesionales
+********0253,5060000,CUST-B15F34728395,60-69,Pacífica,Salud y educación
+********0254,4450000,CUST-A89400B30C7B,40-49,Andina,Tecnología y diseño
+********0255,2850000,CUST-F60DE5A69B98,40-49,Andina,Tecnología y diseño
+********0256,3150000,CUST-1B10AB597C93,20-29,Andina,Salud y educación
+********0257,3680000,CUST-1A03A0306BC6,30-39,Caribe,Comercio y oficios
+********0258,3520000,CUST-D481EC442B49,20-29,Pacífica,Servicios profesionales
+********0259,2540000,CUST-804BD65BCB22,50-59,Caribe,Servicios profesionales
+********0260,4030000,CUST-80F32D06384F,60-69,Andina,Salud y educación
+********0261,3870000,CUST-70FB1E1EA1DF,50-59,Andina,Servicios profesionales
+********0262,7330000,CUST-E4A809DA0135,60-69,Andina,Tecnología y diseño
+********0263,5290000,CUST-F87B6996A491,50-59,Andina,Tecnología y diseño
+********0264,2630000,CUST-EF74DE7EB1E8,20-29,Andina,Tecnología y diseño
+********0265,4300000,CUST-E8E51667C1A1,30-39,Andina,Comercio y oficios
+********0266,3070000,CUST-FB36074B1F4B,60-69,Andina,Salud y educación
+********0267,3140000,CUST-F359D746EFCA,50-59,Caribe,Tecnología y diseño
+********0268,3100000,CUST-76B58CB109CE,60-69,Andina,Salud y educación
+********0269,3410000,CUST-3004FECE13A8,50-59,Andina,Servicios profesionales
+********0270,4030000,CUST-5FDE60C44307,40-49,Andina,Servicios profesionales
+********0271,2710000,CUST-AAC9BCCF0906,30-39,Andina,Salud y educación
+********0272,3590000,CUST-6E19E83B846F,20-29,Andina,Comercio y oficios
+********0273,2210000,CUST-19215E6E93F1,20-29,Andina,Salud y educación
+********0274,2750000,CUST-6E0C9714207C,30-39,Andina,Comercio y oficios
+********0275,4390000,CUST-7EB54D1D9626,20-29,Andina,Tecnología y diseño
+********0276,4310000,CUST-FA07DBDCD323,40-49,Caribe,Tecnología y diseño
+********0277,3810000,CUST-91E0C0A3D12C,40-49,Andina,Servicios profesionales
+********0278,3550000,CUST-6CF572F5F375,60-69,Andina,Comercio y oficios
+********0279,3510000,CUST-16F94BC98D04,50-59,Andina,Servicios profesionales
+********0280,5290000,CUST-168C402DA58D,30-39,Andina,Servicios profesionales
+********0281,2830000,CUST-5C0FC7D70B76,60-69,Pacífica,Servicios profesionales
+********0282,4320000,CUST-C101ACE02942,50-59,Andina,Salud y educación
+********0283,3380000,CUST-EB01E59B95FE,20-29,Andina,Salud y educación
+********0284,4560000,CUST-547DADCDB7E4,50-59,Andina,Salud y educación
+********0285,9740000,CUST-DC43B8EE94DC,50-59,Andina,Salud y educación
+********0286,2640000,CUST-5E6B176FAA23,40-49,Andina,Comercio y oficios
+********0287,1590000,CUST-8CD3485AD164,40-49,Andina,Tecnología y diseño
+********0288,4440000,CUST-842C83862852,60-69,Andina,Tecnología y diseño
+********0289,5580000,CUST-3C4EE0D2ED40,60-69,Andina,Servicios profesionales
+********0290,4770000,CUST-9AE3B4089CD2,50-59,Andina,Salud y educación
+********0291,3110000,CUST-D8CBB8098DFD,20-29,Andina,Comercio y oficios
+********0292,5420000,CUST-D93DB64F5B64,50-59,Andina,Servicios profesionales
+********0293,2280000,CUST-3A139614542B,50-59,Andina,Tecnología y diseño
+********0294,4480000,CUST-25D1AD548A2E,50-59,Andina,Tecnología y diseño
+********0295,4590000,CUST-9868B9B82D88,60-69,Andina,Servicios profesionales
+********0296,3570000,CUST-3E00B85A656B,50-59,Andina,Servicios profesionales
+********0297,4750000,CUST-4EA7C1BFBBED,30-39,Andina,Servicios profesionales
+********0298,4110000,CUST-091150032E32,50-59,Andina,Comercio y oficios
+********0299,3180000,CUST-E769D3DFCB97,60-69,Caribe,Tecnología y diseño
+********0300,4300000,CUST-B3901F11A9A1,50-59,Andina,Servicios profesionales
+********0301,7860000,CUST-C57CB7C936D2,60-69,Andina,Servicios profesionales
+********0302,6840000,CUST-BB1E6CE76B31,50-59,Andina,Servicios profesionales
+********0303,2920000,CUST-CE7F961E652A,30-39,Andina,Comercio y oficios
+********0304,4330000,CUST-21350B3FC95F,60-69,Andina,Salud y educación
+********0305,3010000,CUST-730B9FABDC3F,40-49,Andina,Servicios profesionales
+********0306,2690000,CUST-4AA454373836,60-69,Andina,Salud y educación
+********0307,3590000,CUST-585A0877447D,40-49,Andina,Servicios profesionales
+********0308,3700000,CUST-8AB121A1DAD1,60-69,Caribe,Servicios profesionales
+********0309,1280000,CUST-2AF6A2C341E5,20-29,Caribe,Salud y educación
+********0310,4550000,CUST-30E6B1AA779F,60-69,Andina,Salud y educación
+********0311,2530000,CUST-8B931729E406,20-29,Andina,Salud y educación
+********0312,4070000,CUST-C397AAC30384,20-29,Andina,Tecnología y diseño
+********0313,4280000,CUST-31881E4B14A9,20-29,Andina,Servicios profesionales
+********0314,2920000,CUST-CCA3937F3674,30-39,Andina,Tecnología y diseño
+********0315,2010000,CUST-1EE700490C23,30-39,Caribe,Salud y educación
+********0316,2000000,CUST-D69E62BF9106,30-39,Andina,Salud y educación
+********0317,4510000,CUST-137D0837D446,30-39,Andina,Servicios profesionales
+********0318,2300000,CUST-EAE79DD076E4,30-39,Andina,Comercio y oficios
+********0319,3090000,CUST-92328B951E03,60-69,Andina,Comercio y oficios
+********0320,4400000,CUST-FB20E550B9AD,60-69,Andina,Servicios profesionales
+********0321,2980000,CUST-A37EE9880128,40-49,Andina,Servicios profesionales
+********0322,2270000,CUST-43A704DF2A62,40-49,Andina,Salud y educación
+********0323,3930000,CUST-FB2736C0E6F4,20-29,Andina,Tecnología y diseño
+********0324,3490000,CUST-A39A43CBEB46,40-49,Pacífica,Servicios profesionales
+********0325,3480000,CUST-E80033CA38D3,60-69,Andina,Salud y educación
+********0326,3470000,CUST-35030897425F,50-59,Andina,Servicios profesionales
+********0327,3830000,CUST-826DC2082DC1,20-29,Andina,Tecnología y diseño
+********0328,6880000,CUST-6869EFB2D2DC,40-49,Andina,Salud y educación
+********0329,6330000,CUST-85AD3DEEB164,30-39,Andina,Tecnología y diseño
+********0330,3650000,CUST-C233E51A8429,20-29,Andina,Servicios profesionales
+********0331,4930000,CUST-476007F19D34,20-29,Andina,Salud y educación
+********0332,2560000,CUST-7F5D8D5882CE,50-59,Andina,Servicios profesionales
+********0333,3840000,CUST-77540F0D674A,50-59,Caribe,Servicios profesionales
+********0334,2590000,CUST-68E0DE1ADB77,30-39,Andina,Comercio y oficios
+********0335,2190000,CUST-803594567A25,30-39,Andina,Comercio y oficios
+********0336,3900000,CUST-9A909101A522,30-39,Andina,Comercio y oficios
+********0337,4120000,CUST-9671C2C265AF,20-29,Andina,Tecnología y diseño
+********0338,2450000,CUST-BDA3D2B0E08C,20-29,Andina,Servicios profesionales
+********0339,3310000,CUST-F2BE6156A1EA,50-59,Andina,Salud y educación
+********0340,3420000,CUST-EF0DCB2B94CB,50-59,Andina,Servicios profesionales
+********0341,2710000,CUST-2A23B89F827E,50-59,Andina,Tecnología y diseño
+********0342,3580000,CUST-843B0F50E7B3,40-49,Caribe,Servicios profesionales
+********0343,4040000,CUST-BB9E670ACD62,50-59,Andina,Servicios profesionales
+********0344,3200000,CUST-2B1B22E0795F,20-29,Andina,Tecnología y diseño
+********0345,3180000,CUST-71D9F376A8A5,30-39,Andina,Servicios profesionales
+********0346,3310000,CUST-9919D73D569C,40-49,Andina,Comercio y oficios
+********0347,2200000,CUST-A9F939C29CE7,30-39,Andina,Tecnología y diseño
+********0348,3350000,CUST-C77CFF536ECA,20-29,Andina,Tecnología y diseño
+********0349,2220000,CUST-D6DA0C9F38B8,20-29,Andina,Tecnología y diseño
+********0350,3180000,CUST-3074F0612F32,20-29,Andina,Servicios profesionales
+********0351,7410000,CUST-97F765B295DA,40-49,Pacífica,Servicios profesionales
+********0352,4680000,CUST-77610EB71847,50-59,Caribe,Comercio y oficios
+********0353,2050000,CUST-4374881A041E,20-29,Pacífica,Comercio y oficios
+********0354,5030000,CUST-712B59694292,30-39,Andina,Comercio y oficios
+********0355,3090000,CUST-8A3097255E42,50-59,Andina,Salud y educación
+********0356,6400000,CUST-EE0CCBCD7093,50-59,Andina,Servicios profesionales
+********0357,2310000,CUST-EB67ED2B5B80,60-69,Andina,Tecnología y diseño
+********0358,2170000,CUST-B07AEFE45B3F,20-29,Andina,Servicios profesionales
+********0359,3150000,CUST-437FBE4E86C2,60-69,Andina,Servicios profesionales
+********0360,2740000,CUST-B1DBF292714E,20-29,Andina,Servicios profesionales
+********0361,3660000,CUST-A036B20F1211,20-29,Andina,Salud y educación
+********0362,7400000,CUST-FDC45082FA6E,50-59,Andina,Servicios profesionales
+********0363,4030000,CUST-F1157E010D18,50-59,Caribe,Salud y educación
+********0364,3620000,CUST-B18118B4A9C0,40-49,Andina,Comercio y oficios
+********0365,3460000,CUST-8490E6046D7C,40-49,Andina,Tecnología y diseño
+********0366,4070000,CUST-5BB2CF8BDB93,30-39,Andina,Salud y educación
+********0367,8790000,CUST-416C84788760,40-49,Andina,Tecnología y diseño
+********0368,2860000,CUST-AA318BEFE50B,50-59,Andina,Servicios profesionales
+********0369,5040000,CUST-1F90D4E49DBE,50-59,Andina,Servicios profesionales
+********0370,2440000,CUST-7F20E7DB9569,20-29,Andina,Salud y educación
+********0371,1520000,CUST-7B2FA146C929,20-29,Andina,Salud y educación
+********0372,4570000,CUST-6B74CF09EB2F,50-59,Andina,Comercio y oficios
+********0373,7120000,CUST-980A78580716,50-59,Andina,Comercio y oficios
+********0374,2900000,CUST-74ED8A147DF4,30-39,Andina,Servicios profesionales
+********0375,3290000,CUST-E5AD782A2E84,20-29,Andina,Salud y educación
+********0376,2840000,CUST-66D5E00B7798,20-29,Andina,Servicios profesionales
+********0377,3880000,CUST-1F8458E3E78D,60-69,Andina,Servicios profesionales
+********0378,4890000,CUST-D022F9C7DE15,50-59,Pacífica,Tecnología y diseño
+********0379,4060000,CUST-294B571FC8ED,60-69,Caribe,Salud y educación
+********0380,5480000,CUST-7D280DDE1F4D,60-69,Andina,Salud y educación
+********0381,3350000,CUST-43899A9FB535,50-59,Pacífica,Servicios profesionales
+********0382,2430000,CUST-CD1D43CAF00A,30-39,Andina,Salud y educación
+********0383,3440000,CUST-EE2960018715,20-29,Andina,Comercio y oficios
+********0384,2600000,CUST-081DD764AD79,40-49,Andina,Servicios profesionales
+********0385,2580000,CUST-A4C6CF262C01,30-39,Andina,Servicios profesionales
+********0386,2110000,CUST-F3AB689615A4,20-29,Caribe,Comercio y oficios
+********0387,4470000,CUST-1D77AD63BBFE,20-29,Andina,Servicios profesionales
+********0388,2640000,CUST-22A8424AD856,20-29,Pacífica,Comercio y oficios
+********0389,2540000,CUST-3B2288C06066,60-69,Caribe,Servicios profesionales
+********0390,2690000,CUST-E730F8EEBC95,20-29,Pacífica,Salud y educación
+********0391,1740000,CUST-EEBC853008D4,40-49,Caribe,Salud y educación
+********0392,5840000,CUST-F03C840F13BE,40-49,Andina,Tecnología y diseño
+********0393,2460000,CUST-0EB099927685,20-29,Andina,Tecnología y diseño
+********0394,4420000,CUST-1A4E2DFC04BB,20-29,Andina,Tecnología y diseño
+********0395,3240000,CUST-7CC4B2A6079E,30-39,Pacífica,Salud y educación
+********0396,3370000,CUST-BDE801D217C9,60-69,Andina,Comercio y oficios
+********0397,5410000,CUST-0F8B4ECB4A26,60-69,Andina,Comercio y oficios
+********0398,2710000,CUST-B61C8663CBCB,40-49,Andina,Tecnología y diseño
+********0399,3830000,CUST-EB2E325DAE3F,50-59,Andina,Servicios profesionales
+********0400,5180000,CUST-6ACA13874E14,60-69,Andina,Tecnología y diseño
+********0401,3610000,CUST-6D2037BD399F,60-69,Andina,Comercio y oficios
+********0402,2430000,CUST-1CDC4347E231,20-29,Andina,Tecnología y diseño
+********0403,3890000,CUST-F54BBF2C842F,40-49,Andina,Servicios profesionales
+********0404,2900000,CUST-6B2CAFD3E1B8,30-39,Andina,Servicios profesionales
+********0405,3940000,CUST-293C374FEDC7,60-69,Caribe,Salud y educación
+********0406,3140000,CUST-99B82588B63F,30-39,Pacífica,Servicios profesionales
+********0407,3120000,CUST-AD0315AF8961,60-69,Caribe,Comercio y oficios
+********0408,2800000,CUST-4B02D4CDA18D,50-59,Andina,Salud y educación
+********0409,4850000,CUST-2C927058D872,40-49,Caribe,Tecnología y diseño
+********0410,4250000,CUST-5B26DE6C52E6,50-59,Caribe,Tecnología y diseño
+********0411,4690000,CUST-5E8C35EDF679,40-49,Andina,Servicios profesionales
+********0412,6420000,CUST-DCF35D3FCAE9,50-59,Andina,Salud y educación
+********0413,2950000,CUST-453B6445246D,40-49,Andina,Comercio y oficios
+********0414,3240000,CUST-D352AAC74146,40-49,Caribe,Salud y educación
+********0415,1980000,CUST-48E2A2D53A6C,50-59,Andina,Salud y educación
+********0416,1840000,CUST-ACE2AD405A49,40-49,Andina,Servicios profesionales
+********0417,2150000,CUST-4A773297E9B5,40-49,Andina,Comercio y oficios
+********0418,4170000,CUST-52C2C7CAB914,50-59,Andina,Servicios profesionales
+********0419,2440000,CUST-CCE03113D5FE,30-39,Andina,Tecnología y diseño
+********0420,2910000,CUST-DE46A620BD36,20-29,Andina,Servicios profesionales
+********0421,2550000,CUST-598F812E345C,20-29,Andina,Tecnología y diseño
+********0422,4510000,CUST-D58B1F7141A2,60-69,Pacífica,Servicios profesionales
+********0423,3240000,CUST-7FDA66C12252,50-59,Andina,Comercio y oficios
+********0424,4490000,CUST-5C18D0A20907,50-59,Andina,Servicios profesionales
+********0425,6350000,CUST-1C19D5DB99B4,50-59,Andina,Tecnología y diseño
+********0426,3090000,CUST-A05F75F83665,20-29,Caribe,Salud y educación
+********0427,5970000,CUST-9A628AED7672,40-49,Pacífica,Salud y educación
+********0428,3700000,CUST-6591B52B8D45,30-39,Caribe,Servicios profesionales
+********0429,4240000,CUST-B9C0A19514D2,50-59,Andina,Servicios profesionales
+********0430,5170000,CUST-8CDD7CDA679F,30-39,Andina,Comercio y oficios
+********0431,3200000,CUST-612D474AFD5D,40-49,Andina,Servicios profesionales
+********0432,3090000,CUST-BCADF7AD3FBF,40-49,Andina,Servicios profesionales
+********0433,4350000,CUST-B3F48CC8A7A8,40-49,Andina,Tecnología y diseño
+********0434,2560000,CUST-D6512BF54F26,60-69,Andina,Salud y educación
+********0435,4500000,CUST-DF48B9B3CDAE,50-59,Pacífica,Comercio y oficios
+********0436,4900000,CUST-A9CA61DFB598,30-39,Andina,Tecnología y diseño
+********0437,4470000,CUST-071F70B42EA6,50-59,Andina,Servicios profesionales
+********0438,2850000,CUST-E4B08D6A5BFF,30-39,Andina,Salud y educación
+********0439,4250000,CUST-DFA5BEDE48F1,50-59,Andina,Comercio y oficios
+********0440,3890000,CUST-3C4D8304937A,60-69,Caribe,Servicios profesionales
+********0441,4900000,CUST-E75605507E6A,50-59,Andina,Servicios profesionales
+********0442,5360000,CUST-6F527F0B42A2,50-59,Andina,Servicios profesionales
+********0443,2560000,CUST-AF01BB3F6827,30-39,Pacífica,Salud y educación
+********0444,4010000,CUST-9FBF40E0265B,50-59,Andina,Tecnología y diseño
+********0445,3900000,CUST-2F1E3DB9AC72,40-49,Caribe,Salud y educación
+********0446,1870000,CUST-977A7E29BD55,20-29,Pacífica,Comercio y oficios
+********0447,3570000,CUST-B568BE8FAAEA,60-69,Andina,Servicios profesionales
+********0448,4730000,CUST-CA4968FEA032,50-59,Andina,Comercio y oficios
+********0449,3620000,CUST-25AA95DA1069,40-49,Andina,Servicios profesionales
+********0450,5390000,CUST-011C2F32D570,60-69,Andina,Tecnología y diseño
+********0451,2890000,CUST-D270FC7C08E0,30-39,Caribe,Comercio y oficios
+********0452,2090000,CUST-4755D12A6C53,20-29,Andina,Salud y educación
+********0453,3740000,CUST-55C88C4057EB,50-59,Andina,Servicios profesionales
+********0454,3430000,CUST-8350B017A145,60-69,Andina,Salud y educación
+********0455,4520000,CUST-22BA72516918,60-69,Andina,Salud y educación
+********0456,2180000,CUST-AAFA8AC51846,40-49,Andina,Comercio y oficios
+********0457,1500000,CUST-B5A87FA81656,30-39,Caribe,Servicios profesionales
+********0458,2120000,CUST-29471D2A1812,60-69,Andina,Servicios profesionales
+********0459,3270000,CUST-F92579E12D85,60-69,Andina,Tecnología y diseño
+********0460,5250000,CUST-13EC6BD347D8,40-49,Andina,Servicios profesionales
+********0461,4230000,CUST-76935AA976A9,20-29,Andina,Servicios profesionales
+********0462,1940000,CUST-DFBD6D69D963,40-49,Andina,Salud y educación
+********0463,3290000,CUST-8EFDA4D0B111,60-69,Andina,Salud y educación
+********0464,2980000,CUST-2304097C6791,50-59,Andina,Servicios profesionales
+********0465,4220000,CUST-D23EC52AFE05,50-59,Pacífica,Tecnología y diseño
+********0466,4880000,CUST-8F834653487C,50-59,Andina,Tecnología y diseño
+********0467,3410000,CUST-F4E90AAD3F49,60-69,Andina,Salud y educación
+********0468,4560000,CUST-FE6C884DE928,60-69,Andina,Tecnología y diseño
+********0469,2060000,CUST-C3C5509C53FF,40-49,Andina,Servicios profesionales
+********0470,6010000,CUST-A8D511D83C9A,30-39,Andina,Tecnología y diseño
+********0471,2020000,CUST-2273E99AB03D,50-59,Andina,Salud y educación
+********0472,2600000,CUST-1DDE45973D36,30-39,Pacífica,Comercio y oficios
+********0473,4190000,CUST-04E9AD7F4025,50-59,Andina,Comercio y oficios
+********0474,2850000,CUST-745ED7438B17,20-29,Andina,Tecnología y diseño
+********0475,2520000,CUST-9F0522D7F0DF,30-39,Andina,Comercio y oficios
+********0476,2130000,CUST-BB6C1EA92A44,50-59,Pacífica,Comercio y oficios
+********0477,3510000,CUST-5766AA1B2100,20-29,Andina,Comercio y oficios
+********0478,2410000,CUST-96C32C791169,20-29,Caribe,Servicios profesionales
+********0479,2240000,CUST-7441178A7851,30-39,Andina,Tecnología y diseño
+********0480,4610000,CUST-936975CAB5A1,50-59,Andina,Salud y educación
+********0481,1850000,CUST-F4E6920123C8,30-39,Pacífica,Servicios profesionales
+********0482,2630000,CUST-B29F798E65BA,50-59,Caribe,Comercio y oficios
+********0483,6440000,CUST-86F9A2D2B973,60-69,Andina,Tecnología y diseño
+********0484,3470000,CUST-D54643954B29,30-39,Caribe,Tecnología y diseño
+********0485,2240000,CUST-5AC81DDD6D4B,50-59,Andina,Salud y educación
+********0486,4160000,CUST-2D69A55376DD,30-39,Pacífica,Tecnología y diseño
+********0487,3440000,CUST-7BE56F2E34A7,60-69,Andina,Tecnología y diseño
+********0488,4520000,CUST-9DC508725277,20-29,Andina,Salud y educación
+********0489,4610000,CUST-8ACD7D9C7178,30-39,Andina,Tecnología y diseño
+********0490,2870000,CUST-5808B6156676,20-29,Andina,Servicios profesionales
+********0491,4420000,CUST-27BCB31AB290,50-59,Andina,Salud y educación
+********0492,5260000,CUST-A030B1DDD022,20-29,Andina,Tecnología y diseño
+********0493,3580000,CUST-211ACF409868,20-29,Andina,Servicios profesionales
+********0494,3290000,CUST-6325962A79E7,30-39,Andina,Servicios profesionales
+********0495,3610000,CUST-BA56331F0F5C,30-39,Andina,Comercio y oficios
+********0496,5110000,CUST-C3060933AAF6,30-39,Andina,Servicios profesionales
+********0497,3610000,CUST-40BE29FE0247,60-69,Andina,Servicios profesionales
+********0498,4220000,CUST-64382231567B,50-59,Andina,Servicios profesionales
+********0499,6070000,CUST-24A120B836D9,40-49,Andina,Servicios profesionales
+********0500,1860000,CUST-F91408C18EF0,40-49,Andina,Tecnología y diseño
+********0501,2380000,CUST-C7227A1EA390,30-39,Andina,Servicios profesionales
+********0502,3090000,CUST-045576984100,50-59,Pacífica,Tecnología y diseño
+********0503,4630000,CUST-EC5028440769,50-59,Andina,Servicios profesionales
+********0504,3250000,CUST-57E3DBFFB08A,20-29,Andina,Servicios profesionales
+********0505,3380000,CUST-689F0BEE9A50,40-49,Andina,Comercio y oficios
+********0506,4360000,CUST-F58F790FC5EB,60-69,Andina,Comercio y oficios
+********0507,1220000,CUST-5E33246ABF48,30-39,Andina,Salud y educación
+********0508,6080000,CUST-6F3398646AC8,40-49,Andina,Tecnología y diseño
+********0509,3020000,CUST-1CDD7761BD5A,30-39,Andina,Tecnología y diseño
+********0510,3380000,CUST-3BEA1268F1F2,50-59,Andina,Salud y educación
+********0511,1850000,CUST-57BC1FA9E7CB,30-39,Andina,Servicios profesionales
+********0512,2500000,CUST-DC631381805D,20-29,Andina,Comercio y oficios
+********0513,3160000,CUST-A2021FB71381,20-29,Pacífica,Servicios profesionales
+********0514,3740000,CUST-976848477079,20-29,Andina,Servicios profesionales
+********0515,3840000,CUST-6CC07C2E4A14,20-29,Pacífica,Servicios profesionales
+********0516,4930000,CUST-B71545DAD5C2,50-59,Andina,Servicios profesionales
+********0517,4570000,CUST-9ABEB7D747D4,20-29,Andina,Servicios profesionales
+********0518,3750000,CUST-B05C35ABFA24,20-29,Andina,Comercio y oficios
+********0519,3880000,CUST-37C6D1A2B62C,20-29,Andina,Servicios profesionales
+********0520,2140000,CUST-D6A0FA418326,30-39,Andina,Salud y educación
+********0521,2950000,CUST-4D8B509592C4,20-29,Andina,Servicios profesionales
+********0522,5790000,CUST-F22DFB4D8F40,60-69,Andina,Comercio y oficios
+********0523,2810000,CUST-06D7225499AF,60-69,Caribe,Comercio y oficios
+********0524,3810000,CUST-83450BD92EFC,30-39,Andina,Comercio y oficios
+********0525,6080000,CUST-B28B3A19DEB6,50-59,Andina,Servicios profesionales
+********0526,5790000,CUST-AE62CC739E4E,40-49,Andina,Tecnología y diseño
+********0527,2390000,CUST-8206974B2444,30-39,Andina,Salud y educación
+********0528,2230000,CUST-ED486763F64F,40-49,Pacífica,Comercio y oficios
+********0529,1810000,CUST-ACCEF0E5E4A3,20-29,Andina,Servicios profesionales
+********0530,2350000,CUST-50008DAF81F4,30-39,Andina,Servicios profesionales
+********0531,1940000,CUST-5E2E383E8B5E,40-49,Andina,Salud y educación
+********0532,4540000,CUST-7D85554CB4BE,30-39,Andina,Tecnología y diseño
+********0533,5420000,CUST-56234ADE43C4,60-69,Andina,Tecnología y diseño
+********0534,4160000,CUST-5924646B3BB9,40-49,Andina,Comercio y oficios
+********0535,4290000,CUST-AF4BD0AA0323,20-29,Caribe,Comercio y oficios
+********0536,4690000,CUST-D8D3B38B27FA,20-29,Andina,Tecnología y diseño
+********0537,2740000,CUST-937537FB2646,50-59,Andina,Salud y educación
+********0538,4240000,CUST-23A255CA3256,60-69,Andina,Salud y educación
+********0539,6240000,CUST-6288EAC34591,60-69,Andina,Servicios profesionales
+********0540,3090000,CUST-5C9714DCEC1F,20-29,Andina,Comercio y oficios
+********0541,6030000,CUST-91B1A5CC2089,50-59,Andina,Servicios profesionales
+********0542,3140000,CUST-81D5944CD581,40-49,Andina,Servicios profesionales
+********0543,2240000,CUST-B59C02D8DE50,60-69,Andina,Salud y educación
+********0544,5510000,CUST-4F8B1C22436D,50-59,Andina,Tecnología y diseño
+********0545,5000000,CUST-A495853EF914,40-49,Andina,Servicios profesionales
+********0546,1840000,CUST-03625E74D6AD,20-29,Andina,Comercio y oficios
+********0547,4990000,CUST-D2D14867C49E,50-59,Caribe,Tecnología y diseño
+********0548,3430000,CUST-5DC3971E62DA,30-39,Andina,Servicios profesionales
+********0549,3770000,CUST-9808A60F3EF6,30-39,Andina,Servicios profesionales
+********0550,2300000,CUST-4A812B048982,40-49,Andina,Servicios profesionales
+********0551,4770000,CUST-E725519EC4BB,30-39,Andina,Servicios profesionales
+********0552,2820000,CUST-D2B7DF1D624E,40-49,Andina,Tecnología y diseño
+********0553,2900000,CUST-0DD4EEE42AE2,30-39,Andina,Servicios profesionales
+********0554,2680000,CUST-9ED6DD0B65DB,60-69,Pacífica,Servicios profesionales
+********0555,4850000,CUST-C984FB4C498C,20-29,Andina,Tecnología y diseño
+********0556,4340000,CUST-495221058A73,60-69,Andina,Servicios profesionales
+********0557,3600000,CUST-71035A3E4573,60-69,Andina,Salud y educación
+********0558,2350000,CUST-F25F0BE0550D,50-59,Andina,Comercio y oficios
+********0559,4140000,CUST-A3580369FC8B,40-49,Andina,Salud y educación
+********0560,4070000,CUST-EB8861514486,40-49,Andina,Comercio y oficios
+********0561,4100000,CUST-51E5935AC2AA,50-59,Andina,Servicios profesionales
+********0562,5870000,CUST-9851D8D96A9B,60-69,Andina,Comercio y oficios
+********0563,4450000,CUST-BC6542BC4E61,50-59,Andina,Salud y educación
+********0564,3610000,CUST-59B7A52C098A,30-39,Andina,Servicios profesionales
+********0565,5610000,CUST-67F381CC9A52,60-69,Andina,Salud y educación
+********0566,3830000,CUST-9AF7787E737B,30-39,Andina,Tecnología y diseño
+********0567,4280000,CUST-1EA5B0142EFB,40-49,Andina,Salud y educación
+********0568,1660000,CUST-8DE32DCE1C75,20-29,Andina,Comercio y oficios
+********0569,4800000,CUST-1C2A3067C6C7,40-49,Andina,Servicios profesionales
+********0570,3570000,CUST-BA145184CA18,50-59,Caribe,Salud y educación
+********0571,3670000,CUST-AF320FB1D891,20-29,Pacífica,Servicios profesionales
+********0572,3950000,CUST-9689420A5834,20-29,Pacífica,Tecnología y diseño
+********0573,4490000,CUST-78D174E920C7,50-59,Andina,Servicios profesionales
+********0574,6450000,CUST-0AB4085712DF,60-69,Andina,Servicios profesionales
+********0575,1860000,CUST-23791AAF33F3,20-29,Andina,Servicios profesionales
+********0576,3740000,CUST-2DA81F8F7412,50-59,Caribe,Tecnología y diseño
+********0577,3140000,CUST-61F8C53A4480,50-59,Andina,Servicios profesionales
+********0578,2270000,CUST-DF8C74C4701E,50-59,Andina,Tecnología y diseño
+********0579,2380000,CUST-69489A4B5F9B,40-49,Andina,Comercio y oficios
+********0580,4610000,CUST-2193CA6C8447,50-59,Andina,Servicios profesionales
+********0581,2900000,CUST-2EFD62883C9D,30-39,Andina,Tecnología y diseño
+********0582,2300000,CUST-939A2FFE19A4,30-39,Andina,Tecnología y diseño
+********0583,2560000,CUST-C6B37C1B5AC2,40-49,Andina,Comercio y oficios
+********0584,2990000,CUST-57081DF9B37A,20-29,Andina,Comercio y oficios
+********0585,2970000,CUST-E80050A2F2A6,50-59,Andina,Salud y educación
+********0586,4840000,CUST-ECB2D2E376D1,20-29,Andina,Tecnología y diseño
+********0587,3650000,CUST-B001181B5CE1,20-29,Andina,Servicios profesionales
+********0588,3470000,CUST-4DB0E8AB5B81,40-49,Andina,Salud y educación
+********0589,2510000,CUST-7D800D3EBA0B,50-59,Andina,Salud y educación
+********0590,6300000,CUST-402A19D9C890,50-59,Caribe,Comercio y oficios
+********0591,3640000,CUST-DFF6181A93EF,60-69,Andina,Salud y educación
+********0592,3920000,CUST-C860C271E63A,50-59,Pacífica,Tecnología y diseño
+********0593,2740000,CUST-C8A721B4126A,40-49,Andina,Comercio y oficios
+********0594,3090000,CUST-E542741AEAB7,50-59,Andina,Tecnología y diseño
+********0595,4260000,CUST-233A1C663F7C,40-49,Andina,Salud y educación
+********0596,2160000,CUST-427BAE23C710,20-29,Andina,Salud y educación
+********0597,6090000,CUST-2F2A17491BFF,20-29,Andina,Comercio y oficios
+********0598,4030000,CUST-46588C483C30,30-39,Andina,Tecnología y diseño
+********0599,4140000,CUST-6C6F58B45D15,50-59,Caribe,Tecnología y diseño
+********0600,3960000,CUST-B1D5FCE4BE90,30-39,Caribe,Comercio y oficios
