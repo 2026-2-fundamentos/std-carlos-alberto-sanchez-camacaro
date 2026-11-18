@@ -70,14 +70,14 @@ jobs:
           # Activity discovery
           # -----------------------------------------------------
 
-          activity_prefixes = ("PRE_", "LAB_")
-
           activities = sorted(
               (
                   directory
                   for directory in repository_root.iterdir()
                   if directory.is_dir()
-                  and directory.name.startswith(activity_prefixes)
+                  and directory.name[:1] in ("L", "P")
+                  and directory.name[1:4].isdigit()
+                  and directory.name[4:5] == "_"
                   and (directory / "tests").is_dir()
               ),
               key=lambda directory: directory.name,
@@ -191,8 +191,8 @@ jobs:
                       "❌ No valid activity directories were found.\n\n"
                   )
                   file.write(
-                      "An activity must start with `PRE_` or `LAB_` "
-                      "and contain `src/` and `test_src/`.\n"
+                      "An activity must start with `L###_` or `P###_` "
+                      "and contain a `tests/` directory.\n"
                   )
               else:
                   file.write("| Activity | Result |\n")
